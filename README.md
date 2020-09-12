@@ -33,5 +33,4 @@ INSERT [Identity].[AspNetUsers] ([Id], [UserName], [NormalizedUserName], [Email]
 
     * Password: 123456
     
-    
-    ![Screenshot](Login.png)
+![Screenshot](Login.png)
