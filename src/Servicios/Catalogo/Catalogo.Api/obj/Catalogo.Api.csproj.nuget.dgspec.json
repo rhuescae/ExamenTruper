@@ -1,0 +1,383 @@
+{
+  "format": 1,
+  "restore": {
+    "E:\\RHUESCAE\\Examen\\ExamenTruper\\src\\Servicios\\Catalogo\\Catalogo.Api\\Catalogo.Api.csproj": {}
+  },
+  "projects": {
+    "E:\\RHUESCAE\\Examen\\ExamenTruper\\src\\Servicios\\Catalogo\\Catalogo.Api\\Catalogo.Api.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\RHUESCAE\\Examen\\ExamenTruper\\src\\Servicios\\Catalogo\\Catalogo.Api\\Catalogo.Api.csproj",
+        "projectName": "Catalogo.Api",
+        "projectPath": "E:\\RHUESCAE\\Examen\\ExamenTruper\\src\\Servicios\\Catalogo\\Catalogo.Api\\Catalogo.Api.csproj",
+        "packagesPath": "E:\\Users\\rhuesca\\.nuget\\packages\\",
+        "outputPath": "E:\\RHUESCAE\\Examen\\ExamenTruper\\src\\Servicios\\Catalogo\\Catalogo.Api\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "E:\\Users\\rhuesca\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "E:\\RHUESCAE\\Examen\\ExamenTruper\\src\\Servicios\\Catalogo\\Catalogo.Persistencia.BaseDatos\\Catalogo.Persistencia.BaseDatos.csproj": {
+                "projectPath": "E:\\RHUESCAE\\Examen\\ExamenTruper\\src\\Servicios\\Catalogo\\Catalogo.Persistencia.BaseDatos\\Catalogo.Persistencia.BaseDatos.csproj"
+              },
+              "E:\\RHUESCAE\\Examen\\ExamenTruper\\src\\Servicios\\Catalogo\\Catalogo.Servicio.Queries\\Catalogo.Servicio.Queries.csproj": {
+                "projectPath": "E:\\RHUESCAE\\Examen\\ExamenTruper\\src\\Servicios\\Catalogo\\Catalogo.Servicio.Queries\\Catalogo.Servicio.Queries.csproj"
+              },
+              "E:\\RHUESCAE\\Examen\\ExamenTruper\\src\\Servicios\\Comun\\Servicios.Comun.Modelos\\Servicios.Comun.Modelos.csproj": {
+                "projectPath": "E:\\RHUESCAE\\Examen\\ExamenTruper\\src\\Servicios\\Comun\\Servicios.Comun.Modelos\\Servicios.Comun.Modelos.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Microsoft.AspNetCore.Authentication.JwtBearer": {
+              "target": "Package",
+              "version": "[3.1.8, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.1.8, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\RHUESCAE\\Examen\\ExamenTruper\\src\\Servicios\\Catalogo\\Catalogo.Dominio\\Catalogo.Dominio.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\RHUESCAE\\Examen\\ExamenTruper\\src\\Servicios\\Catalogo\\Catalogo.Dominio\\Catalogo.Dominio.csproj",
+        "projectName": "Catalogo.Dominio",
+        "projectPath": "E:\\RHUESCAE\\Examen\\ExamenTruper\\src\\Servicios\\Catalogo\\Catalogo.Dominio\\Catalogo.Dominio.csproj",
+        "packagesPath": "E:\\Users\\rhuesca\\.nuget\\packages\\",
+        "outputPath": "E:\\RHUESCAE\\Examen\\ExamenTruper\\src\\Servicios\\Catalogo\\Catalogo.Dominio\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "E:\\Users\\rhuesca\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\RHUESCAE\\Examen\\ExamenTruper\\src\\Servicios\\Catalogo\\Catalogo.Persistencia.BaseDatos\\Catalogo.Persistencia.BaseDatos.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\RHUESCAE\\Examen\\ExamenTruper\\src\\Servicios\\Catalogo\\Catalogo.Persistencia.BaseDatos\\Catalogo.Persistencia.BaseDatos.csproj",
+        "projectName": "Catalogo.Persistencia.BaseDatos",
+        "projectPath": "E:\\RHUESCAE\\Examen\\ExamenTruper\\src\\Servicios\\Catalogo\\Catalogo.Persistencia.BaseDatos\\Catalogo.Persistencia.BaseDatos.csproj",
+        "packagesPath": "E:\\Users\\rhuesca\\.nuget\\packages\\",
+        "outputPath": "E:\\RHUESCAE\\Examen\\ExamenTruper\\src\\Servicios\\Catalogo\\Catalogo.Persistencia.BaseDatos\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "E:\\Users\\rhuesca\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "E:\\RHUESCAE\\Examen\\ExamenTruper\\src\\Servicios\\Catalogo\\Catalogo.Dominio\\Catalogo.Dominio.csproj": {
+                "projectPath": "E:\\RHUESCAE\\Examen\\ExamenTruper\\src\\Servicios\\Catalogo\\Catalogo.Dominio\\Catalogo.Dominio.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[3.1.8, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\RHUESCAE\\Examen\\ExamenTruper\\src\\Servicios\\Catalogo\\Catalogo.Servicio.Queries\\Catalogo.Servicio.Queries.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\RHUESCAE\\Examen\\ExamenTruper\\src\\Servicios\\Catalogo\\Catalogo.Servicio.Queries\\Catalogo.Servicio.Queries.csproj",
+        "projectName": "Catalogo.Servicio.Queries",
+        "projectPath": "E:\\RHUESCAE\\Examen\\ExamenTruper\\src\\Servicios\\Catalogo\\Catalogo.Servicio.Queries\\Catalogo.Servicio.Queries.csproj",
+        "packagesPath": "E:\\Users\\rhuesca\\.nuget\\packages\\",
+        "outputPath": "E:\\RHUESCAE\\Examen\\ExamenTruper\\src\\Servicios\\Catalogo\\Catalogo.Servicio.Queries\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "E:\\Users\\rhuesca\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "E:\\RHUESCAE\\Examen\\ExamenTruper\\src\\Servicios\\Catalogo\\Catalogo.Persistencia.BaseDatos\\Catalogo.Persistencia.BaseDatos.csproj": {
+                "projectPath": "E:\\RHUESCAE\\Examen\\ExamenTruper\\src\\Servicios\\Catalogo\\Catalogo.Persistencia.BaseDatos\\Catalogo.Persistencia.BaseDatos.csproj"
+              },
+              "E:\\RHUESCAE\\Examen\\ExamenTruper\\src\\Servicios\\Comun\\Servicio.Comun.Mapping\\Servicio.Comun.Mapping.csproj": {
+                "projectPath": "E:\\RHUESCAE\\Examen\\ExamenTruper\\src\\Servicios\\Comun\\Servicio.Comun.Mapping\\Servicio.Comun.Mapping.csproj"
+              },
+              "E:\\RHUESCAE\\Examen\\ExamenTruper\\src\\Servicios\\Comun\\Servicios.Comun.Modelos\\Servicios.Comun.Modelos.csproj": {
+                "projectPath": "E:\\RHUESCAE\\Examen\\ExamenTruper\\src\\Servicios\\Comun\\Servicios.Comun.Modelos\\Servicios.Comun.Modelos.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\RHUESCAE\\Examen\\ExamenTruper\\src\\Servicios\\Comun\\Servicio.Comun.Mapping\\Servicio.Comun.Mapping.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\RHUESCAE\\Examen\\ExamenTruper\\src\\Servicios\\Comun\\Servicio.Comun.Mapping\\Servicio.Comun.Mapping.csproj",
+        "projectName": "Servicio.Comun.Mapping",
+        "projectPath": "E:\\RHUESCAE\\Examen\\ExamenTruper\\src\\Servicios\\Comun\\Servicio.Comun.Mapping\\Servicio.Comun.Mapping.csproj",
+        "packagesPath": "E:\\Users\\rhuesca\\.nuget\\packages\\",
+        "outputPath": "E:\\RHUESCAE\\Examen\\ExamenTruper\\src\\Servicios\\Comun\\Servicio.Comun.Mapping\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "E:\\Users\\rhuesca\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\RHUESCAE\\Examen\\ExamenTruper\\src\\Servicios\\Comun\\Servicios.Comun.Modelos\\Servicios.Comun.Modelos.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\RHUESCAE\\Examen\\ExamenTruper\\src\\Servicios\\Comun\\Servicios.Comun.Modelos\\Servicios.Comun.Modelos.csproj",
+        "projectName": "Servicios.Comun.Modelos",
+        "projectPath": "E:\\RHUESCAE\\Examen\\ExamenTruper\\src\\Servicios\\Comun\\Servicios.Comun.Modelos\\Servicios.Comun.Modelos.csproj",
+        "packagesPath": "E:\\Users\\rhuesca\\.nuget\\packages\\",
+        "outputPath": "E:\\RHUESCAE\\Examen\\ExamenTruper\\src\\Servicios\\Comun\\Servicios.Comun.Modelos\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "E:\\Users\\rhuesca\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

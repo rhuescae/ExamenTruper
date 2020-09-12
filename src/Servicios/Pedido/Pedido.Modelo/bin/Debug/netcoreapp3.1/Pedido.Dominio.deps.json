@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Pedido.Dominio/1.0.0": {
+        "runtime": {
+          "Pedido.Dominio.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Pedido.Dominio/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

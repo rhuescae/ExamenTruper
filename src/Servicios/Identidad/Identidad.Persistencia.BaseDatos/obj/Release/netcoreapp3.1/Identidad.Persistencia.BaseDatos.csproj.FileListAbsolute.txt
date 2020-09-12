@@ -1,0 +1,12 @@
+E:\RHUESCAE\Examen\ExamenTruper\src\Servicios\Identidad\Identidad.Persistencia.BaseDatos\bin\Release\netcoreapp3.1\Identidad.Persistencia.BaseDatos.deps.json
+E:\RHUESCAE\Examen\ExamenTruper\src\Servicios\Identidad\Identidad.Persistencia.BaseDatos\bin\Release\netcoreapp3.1\Identidad.Persistencia.BaseDatos.dll
+E:\RHUESCAE\Examen\ExamenTruper\src\Servicios\Identidad\Identidad.Persistencia.BaseDatos\bin\Release\netcoreapp3.1\Identidad.Persistencia.BaseDatos.pdb
+E:\RHUESCAE\Examen\ExamenTruper\src\Servicios\Identidad\Identidad.Persistencia.BaseDatos\bin\Release\netcoreapp3.1\Identidad.Dominio.dll
+E:\RHUESCAE\Examen\ExamenTruper\src\Servicios\Identidad\Identidad.Persistencia.BaseDatos\bin\Release\netcoreapp3.1\Identidad.Dominio.pdb
+E:\RHUESCAE\Examen\ExamenTruper\src\Servicios\Identidad\Identidad.Persistencia.BaseDatos\obj\Release\netcoreapp3.1\Identidad.Persistencia.BaseDatos.csprojAssemblyReference.cache
+E:\RHUESCAE\Examen\ExamenTruper\src\Servicios\Identidad\Identidad.Persistencia.BaseDatos\obj\Release\netcoreapp3.1\Identidad.Persistencia.BaseDatos.AssemblyInfoInputs.cache
+E:\RHUESCAE\Examen\ExamenTruper\src\Servicios\Identidad\Identidad.Persistencia.BaseDatos\obj\Release\netcoreapp3.1\Identidad.Persistencia.BaseDatos.AssemblyInfo.cs
+E:\RHUESCAE\Examen\ExamenTruper\src\Servicios\Identidad\Identidad.Persistencia.BaseDatos\obj\Release\netcoreapp3.1\Identidad.Persistencia.BaseDatos.csproj.CoreCompileInputs.cache
+E:\RHUESCAE\Examen\ExamenTruper\src\Servicios\Identidad\Identidad.Persistencia.BaseDatos\obj\Release\netcoreapp3.1\Identidad.Persistencia.BaseDatos.csproj.CopyComplete
+E:\RHUESCAE\Examen\ExamenTruper\src\Servicios\Identidad\Identidad.Persistencia.BaseDatos\obj\Release\netcoreapp3.1\Identidad.Persistencia.BaseDatos.dll
+E:\RHUESCAE\Examen\ExamenTruper\src\Servicios\Identidad\Identidad.Persistencia.BaseDatos\obj\Release\netcoreapp3.1\Identidad.Persistencia.BaseDatos.pdb

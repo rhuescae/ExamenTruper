@@ -1,0 +1,15 @@
+E:\RHUESCAE\Examen\ExamenTruper\src\Servicios\Pedido\Pedido.Persistencia.BaseDatos\bin\Debug\netcoreapp3.1\Pedido.Persistencia.BaseDatos.deps.json
+E:\RHUESCAE\Examen\ExamenTruper\src\Servicios\Pedido\Pedido.Persistencia.BaseDatos\bin\Debug\netcoreapp3.1\Pedido.Persistencia.BaseDatos.dll
+E:\RHUESCAE\Examen\ExamenTruper\src\Servicios\Pedido\Pedido.Persistencia.BaseDatos\obj\Debug\netcoreapp3.1\Pedido.Persistencia.BaseDatos.AssemblyInfoInputs.cache
+E:\RHUESCAE\Examen\ExamenTruper\src\Servicios\Pedido\Pedido.Persistencia.BaseDatos\obj\Debug\netcoreapp3.1\Pedido.Persistencia.BaseDatos.AssemblyInfo.cs
+E:\RHUESCAE\Examen\ExamenTruper\src\Servicios\Pedido\Pedido.Persistencia.BaseDatos\bin\Debug\netcoreapp3.1\Pedido.Persistencia.BaseDatos.pdb
+E:\RHUESCAE\Examen\ExamenTruper\src\Servicios\Pedido\Pedido.Persistencia.BaseDatos\bin\Debug\netcoreapp3.1\Pedido.Dominio.dll
+E:\RHUESCAE\Examen\ExamenTruper\src\Servicios\Pedido\Pedido.Persistencia.BaseDatos\bin\Debug\netcoreapp3.1\Pedido.Dominio.pdb
+E:\RHUESCAE\Examen\ExamenTruper\src\Servicios\Pedido\Pedido.Persistencia.BaseDatos\obj\Debug\netcoreapp3.1\Pedido.Persistencia.BaseDatos.csprojAssemblyReference.cache
+E:\RHUESCAE\Examen\ExamenTruper\src\Servicios\Pedido\Pedido.Persistencia.BaseDatos\obj\Debug\netcoreapp3.1\Pedido.Persistencia.BaseDatos.csproj.CopyComplete
+E:\RHUESCAE\Examen\ExamenTruper\src\Servicios\Pedido\Pedido.Persistencia.BaseDatos\obj\Debug\netcoreapp3.1\Pedido.Persistencia.BaseDatos.dll
+E:\RHUESCAE\Examen\ExamenTruper\src\Servicios\Pedido\Pedido.Persistencia.BaseDatos\obj\Debug\netcoreapp3.1\Pedido.Persistencia.BaseDatos.pdb
+E:\RHUESCAE\Examen\ExamenTruper\src\Servicios\Pedido\Pedido.Persistencia.BaseDatos\bin\Debug\netcoreapp3.1\Pedido.Persistencia.BaseDatos.runtimeconfig.json
+E:\RHUESCAE\Examen\ExamenTruper\src\Servicios\Pedido\Pedido.Persistencia.BaseDatos\bin\Debug\netcoreapp3.1\Pedido.Persistencia.BaseDatos.runtimeconfig.dev.json
+E:\RHUESCAE\Examen\ExamenTruper\src\Servicios\Pedido\Pedido.Persistencia.BaseDatos\obj\Debug\netcoreapp3.1\Pedido.Persistencia.BaseDatos.csproj.CoreCompileInputs.cache
+E:\RHUESCAE\Examen\ExamenTruper\src\Servicios\Pedido\Pedido.Persistencia.BaseDatos\obj\Debug\netcoreapp3.1\Pedido.Persistencia.BaseDatos.genruntimeconfig.cache

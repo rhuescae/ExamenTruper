@@ -1,0 +1,14 @@
+E:\RHUESCAE\Examen\ExamenTruper\src\Servicios\Identidad\Identidad.Servicio.EventHandlers\bin\Release\netcoreapp3.1\Identidad.Servicio.EventHandlers.deps.json
+E:\RHUESCAE\Examen\ExamenTruper\src\Servicios\Identidad\Identidad.Servicio.EventHandlers\bin\Release\netcoreapp3.1\Identidad.Servicio.EventHandlers.dll
+E:\RHUESCAE\Examen\ExamenTruper\src\Servicios\Identidad\Identidad.Servicio.EventHandlers\bin\Release\netcoreapp3.1\Identidad.Servicio.EventHandlers.pdb
+E:\RHUESCAE\Examen\ExamenTruper\src\Servicios\Identidad\Identidad.Servicio.EventHandlers\bin\Release\netcoreapp3.1\Identidad.Dominio.dll
+E:\RHUESCAE\Examen\ExamenTruper\src\Servicios\Identidad\Identidad.Servicio.EventHandlers\bin\Release\netcoreapp3.1\Identidad.Persistencia.BaseDatos.dll
+E:\RHUESCAE\Examen\ExamenTruper\src\Servicios\Identidad\Identidad.Servicio.EventHandlers\bin\Release\netcoreapp3.1\Identidad.Dominio.pdb
+E:\RHUESCAE\Examen\ExamenTruper\src\Servicios\Identidad\Identidad.Servicio.EventHandlers\bin\Release\netcoreapp3.1\Identidad.Persistencia.BaseDatos.pdb
+E:\RHUESCAE\Examen\ExamenTruper\src\Servicios\Identidad\Identidad.Servicio.EventHandlers\obj\Release\netcoreapp3.1\Identidad.Servicio.EventHandlers.csprojAssemblyReference.cache
+E:\RHUESCAE\Examen\ExamenTruper\src\Servicios\Identidad\Identidad.Servicio.EventHandlers\obj\Release\netcoreapp3.1\Identidad.Servicio.EventHandlers.AssemblyInfoInputs.cache
+E:\RHUESCAE\Examen\ExamenTruper\src\Servicios\Identidad\Identidad.Servicio.EventHandlers\obj\Release\netcoreapp3.1\Identidad.Servicio.EventHandlers.AssemblyInfo.cs
+E:\RHUESCAE\Examen\ExamenTruper\src\Servicios\Identidad\Identidad.Servicio.EventHandlers\obj\Release\netcoreapp3.1\Identidad.Servicio.EventHandlers.csproj.CoreCompileInputs.cache
+E:\RHUESCAE\Examen\ExamenTruper\src\Servicios\Identidad\Identidad.Servicio.EventHandlers\obj\Release\netcoreapp3.1\Identidad.Servicio.EventHandlers.csproj.CopyComplete
+E:\RHUESCAE\Examen\ExamenTruper\src\Servicios\Identidad\Identidad.Servicio.EventHandlers\obj\Release\netcoreapp3.1\Identidad.Servicio.EventHandlers.dll
+E:\RHUESCAE\Examen\ExamenTruper\src\Servicios\Identidad\Identidad.Servicio.EventHandlers\obj\Release\netcoreapp3.1\Identidad.Servicio.EventHandlers.pdb

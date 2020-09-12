@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\..\Comun\Servicio.Comun.Mapping\Servicio.Comun.Mapping.csproj" />
+    <ProjectReference Include="..\..\Comun\Servicios.Comun.Modelos\Servicios.Comun.Modelos.csproj" />
+    <ProjectReference Include="..\Pedido.Persistencia.BaseDatos\Pedido.Persistencia.BaseDatos.csproj" />
+  </ItemGroup>
+
+</Project>

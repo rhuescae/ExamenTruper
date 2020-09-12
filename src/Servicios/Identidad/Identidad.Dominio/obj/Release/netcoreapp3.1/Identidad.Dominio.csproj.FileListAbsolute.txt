@@ -1,0 +1,9 @@
+E:\RHUESCAE\Examen\ExamenTruper\src\Servicios\Identidad\Identidad.Dominio\bin\Release\netcoreapp3.1\Identidad.Dominio.deps.json
+E:\RHUESCAE\Examen\ExamenTruper\src\Servicios\Identidad\Identidad.Dominio\bin\Release\netcoreapp3.1\Identidad.Dominio.dll
+E:\RHUESCAE\Examen\ExamenTruper\src\Servicios\Identidad\Identidad.Dominio\bin\Release\netcoreapp3.1\Identidad.Dominio.pdb
+E:\RHUESCAE\Examen\ExamenTruper\src\Servicios\Identidad\Identidad.Dominio\obj\Release\netcoreapp3.1\Identidad.Dominio.csprojAssemblyReference.cache
+E:\RHUESCAE\Examen\ExamenTruper\src\Servicios\Identidad\Identidad.Dominio\obj\Release\netcoreapp3.1\Identidad.Dominio.AssemblyInfoInputs.cache
+E:\RHUESCAE\Examen\ExamenTruper\src\Servicios\Identidad\Identidad.Dominio\obj\Release\netcoreapp3.1\Identidad.Dominio.AssemblyInfo.cs
+E:\RHUESCAE\Examen\ExamenTruper\src\Servicios\Identidad\Identidad.Dominio\obj\Release\netcoreapp3.1\Identidad.Dominio.csproj.CoreCompileInputs.cache
+E:\RHUESCAE\Examen\ExamenTruper\src\Servicios\Identidad\Identidad.Dominio\obj\Release\netcoreapp3.1\Identidad.Dominio.dll
+E:\RHUESCAE\Examen\ExamenTruper\src\Servicios\Identidad\Identidad.Dominio\obj\Release\netcoreapp3.1\Identidad.Dominio.pdb

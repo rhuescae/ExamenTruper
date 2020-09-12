@@ -1,0 +1,41 @@
+﻿@page
+@model Cliente.Web.Comercio.Pages.Pedidos.IndexModel
+@{
+}
+
+@{ ViewData["Title"] = "Pedidos"; }
+
+<div class="text-center">
+    <h1 class="display-4">Pedidos</h1>
+    <p>Todas los pedidos que ha registrado en el sistema</p>
+</div>
+
+<div class="text-center mt-4 mb-4">
+    <a asp-page="/Pedidios/Create" class="btn btn-primary text-light btn-lg">Crear nuevo pedido</a>
+</div>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th># Orden</th>
+            <th style="width:250px;">No pedido</th>
+            <th style="width:140px;">UserName</th>
+            <th style="width:100px;">Fecha compra</th>
+            <th style="width:140px;" class="text-right">Total</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model.Pedidos)
+        {
+        <tr>
+            <td>
+                <a href="~/orders/@item.Id">@item.Id</a>
+            </td>
+            <td>@item.UserName</td>
+            <td>@item.DateSale</td>
+
+            <td class="text-right">@item.Total</td>
+        </tr>}
+    </tbody>
+</table>
+

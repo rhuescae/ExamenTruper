@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "+5Eji0w+jx4bg+VmBUI5eN9nvnSUo7xXuKWi+UVaYoNrFXJpHxnz/BPZ/OQqZTToI9z/hwAXRs8mSA0e4JaePw==",
+  "success": true,
+  "projectFilePath": "E:\\RHUESCAE\\Examen\\ExamenTruper\\src\\Cliente\\Cliente.Web.Autenticacion\\Cliente.Web.Autenticacion.csproj",
+  "expectedPackageFiles": [
+    "E:\\Users\\rhuesca\\.nuget\\packages\\microsoft.extensions.configuration\\3.1.8\\microsoft.extensions.configuration.3.1.8.nupkg.sha512",
+    "E:\\Users\\rhuesca\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\3.1.8\\microsoft.extensions.configuration.abstractions.3.1.8.nupkg.sha512",
+    "E:\\Users\\rhuesca\\.nuget\\packages\\microsoft.extensions.primitives\\3.1.8\\microsoft.extensions.primitives.3.1.8.nupkg.sha512"
+  ],
+  "logs": []
+}

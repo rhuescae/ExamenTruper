@@ -1,0 +1,12 @@
+E:\RHUESCAE\Examen\ExamenTruper\src\Servicios\Catalogo\Catalogo.Persistencia.BaseDatos\bin\Debug\netcoreapp3.1\Catalogo.Persistencia.BaseDatos.deps.json
+E:\RHUESCAE\Examen\ExamenTruper\src\Servicios\Catalogo\Catalogo.Persistencia.BaseDatos\bin\Debug\netcoreapp3.1\Catalogo.Persistencia.BaseDatos.dll
+E:\RHUESCAE\Examen\ExamenTruper\src\Servicios\Catalogo\Catalogo.Persistencia.BaseDatos\obj\Debug\netcoreapp3.1\Catalogo.Persistencia.BaseDatos.csprojAssemblyReference.cache
+E:\RHUESCAE\Examen\ExamenTruper\src\Servicios\Catalogo\Catalogo.Persistencia.BaseDatos\obj\Debug\netcoreapp3.1\Catalogo.Persistencia.BaseDatos.AssemblyInfoInputs.cache
+E:\RHUESCAE\Examen\ExamenTruper\src\Servicios\Catalogo\Catalogo.Persistencia.BaseDatos\obj\Debug\netcoreapp3.1\Catalogo.Persistencia.BaseDatos.AssemblyInfo.cs
+E:\RHUESCAE\Examen\ExamenTruper\src\Servicios\Catalogo\Catalogo.Persistencia.BaseDatos\bin\Debug\netcoreapp3.1\Catalogo.Persistencia.BaseDatos.pdb
+E:\RHUESCAE\Examen\ExamenTruper\src\Servicios\Catalogo\Catalogo.Persistencia.BaseDatos\bin\Debug\netcoreapp3.1\Catalogo.Dominio.dll
+E:\RHUESCAE\Examen\ExamenTruper\src\Servicios\Catalogo\Catalogo.Persistencia.BaseDatos\bin\Debug\netcoreapp3.1\Catalogo.Dominio.pdb
+E:\RHUESCAE\Examen\ExamenTruper\src\Servicios\Catalogo\Catalogo.Persistencia.BaseDatos\obj\Debug\netcoreapp3.1\Catalogo.Persistencia.BaseDatos.csproj.CoreCompileInputs.cache
+E:\RHUESCAE\Examen\ExamenTruper\src\Servicios\Catalogo\Catalogo.Persistencia.BaseDatos\obj\Debug\netcoreapp3.1\Catalogo.Persistencia.BaseDatos.csproj.CopyComplete
+E:\RHUESCAE\Examen\ExamenTruper\src\Servicios\Catalogo\Catalogo.Persistencia.BaseDatos\obj\Debug\netcoreapp3.1\Catalogo.Persistencia.BaseDatos.dll
+E:\RHUESCAE\Examen\ExamenTruper\src\Servicios\Catalogo\Catalogo.Persistencia.BaseDatos\obj\Debug\netcoreapp3.1\Catalogo.Persistencia.BaseDatos.pdb

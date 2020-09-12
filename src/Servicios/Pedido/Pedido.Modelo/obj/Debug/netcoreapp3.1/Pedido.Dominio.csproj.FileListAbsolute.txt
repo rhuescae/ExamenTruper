@@ -1,0 +1,8 @@
+E:\RHUESCAE\Examen\ExamenTruper\src\Servicios\Pedido\Pedido.Modelo\bin\Debug\netcoreapp3.1\Pedido.Dominio.deps.json
+E:\RHUESCAE\Examen\ExamenTruper\src\Servicios\Pedido\Pedido.Modelo\bin\Debug\netcoreapp3.1\Pedido.Dominio.dll
+E:\RHUESCAE\Examen\ExamenTruper\src\Servicios\Pedido\Pedido.Modelo\bin\Debug\netcoreapp3.1\Pedido.Dominio.pdb
+E:\RHUESCAE\Examen\ExamenTruper\src\Servicios\Pedido\Pedido.Modelo\obj\Debug\netcoreapp3.1\Pedido.Dominio.AssemblyInfoInputs.cache
+E:\RHUESCAE\Examen\ExamenTruper\src\Servicios\Pedido\Pedido.Modelo\obj\Debug\netcoreapp3.1\Pedido.Dominio.AssemblyInfo.cs
+E:\RHUESCAE\Examen\ExamenTruper\src\Servicios\Pedido\Pedido.Modelo\obj\Debug\netcoreapp3.1\Pedido.Dominio.csproj.CoreCompileInputs.cache
+E:\RHUESCAE\Examen\ExamenTruper\src\Servicios\Pedido\Pedido.Modelo\obj\Debug\netcoreapp3.1\Pedido.Dominio.dll
+E:\RHUESCAE\Examen\ExamenTruper\src\Servicios\Pedido\Pedido.Modelo\obj\Debug\netcoreapp3.1\Pedido.Dominio.pdb

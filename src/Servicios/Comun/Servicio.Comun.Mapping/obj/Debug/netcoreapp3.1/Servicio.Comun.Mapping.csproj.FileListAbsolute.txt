@@ -1,0 +1,8 @@
+E:\RHUESCAE\Examen\ExamenTruper\src\Servicios\Comun\Servicio.Comun.Mapping\bin\Debug\netcoreapp3.1\Servicio.Comun.Mapping.deps.json
+E:\RHUESCAE\Examen\ExamenTruper\src\Servicios\Comun\Servicio.Comun.Mapping\bin\Debug\netcoreapp3.1\Servicio.Comun.Mapping.dll
+E:\RHUESCAE\Examen\ExamenTruper\src\Servicios\Comun\Servicio.Comun.Mapping\bin\Debug\netcoreapp3.1\Servicio.Comun.Mapping.pdb
+E:\RHUESCAE\Examen\ExamenTruper\src\Servicios\Comun\Servicio.Comun.Mapping\obj\Debug\netcoreapp3.1\Servicio.Comun.Mapping.AssemblyInfoInputs.cache
+E:\RHUESCAE\Examen\ExamenTruper\src\Servicios\Comun\Servicio.Comun.Mapping\obj\Debug\netcoreapp3.1\Servicio.Comun.Mapping.AssemblyInfo.cs
+E:\RHUESCAE\Examen\ExamenTruper\src\Servicios\Comun\Servicio.Comun.Mapping\obj\Debug\netcoreapp3.1\Servicio.Comun.Mapping.csproj.CoreCompileInputs.cache
+E:\RHUESCAE\Examen\ExamenTruper\src\Servicios\Comun\Servicio.Comun.Mapping\obj\Debug\netcoreapp3.1\Servicio.Comun.Mapping.dll
+E:\RHUESCAE\Examen\ExamenTruper\src\Servicios\Comun\Servicio.Comun.Mapping\obj\Debug\netcoreapp3.1\Servicio.Comun.Mapping.pdb
