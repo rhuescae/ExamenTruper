@@ -2,6 +2,8 @@
 Tener una solución integral de una pantalla creada en un Front End con el fin de permitir la captura de un pedido y detalle de pedido, consulta y el borrado de esteusando una arquitectura orientada a microservicios y .NET Core.
 ![Landscape](https://raw.githubusercontent.com/rhuescae/ExmaneTruper/main/path/to/Landscape.png)
 
+![Screenshot](Landscape.png)
+
 ## ¿Cómo levantar el proyecto?
 ### 1. Cambiar las cadenas de conexión
 Actualicen las cadenas de conexión de cada Microservicio por la de ustedes.
