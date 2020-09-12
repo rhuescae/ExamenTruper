@@ -1,6 +1,6 @@
 # Examen Comercio Truper - Microservice Arquitectura .NET Core
 Tener una solución integral de una pantalla creada en un Front End con el fin de permitir la captura de un pedido y detalle de pedido, consulta y el borrado de esteusando una arquitectura orientada a microservicios y .NET Core.
-![Landscape](https://raw.githubusercontent.com/rhuescae/ExmaneTruper/main/path/to/Landscape.png)
+
 
 ![Screenshot](Landscape.png)
 
@@ -32,3 +32,6 @@ INSERT [Identity].[AspNetUsers] ([Id], [UserName], [NormalizedUserName], [Email]
     * Usuario: admin@ADMIN.com
 
     * Password: 123456
+    
+    
+    ![Screenshot](Login.png)
