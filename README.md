@@ -1,8 +1,6 @@
 # Examen Comercio Truper - Microservice Arquitectura .NET Core
-Tener una solución integral de una pantalla creada en un Front End con el fin de permitir la captura de un pedido y detalle de pedido, consulta y el borrado de esteusando una arquitectura orientada a microservicios y .NET Core.
-<<<<<<< HEAD
-(https://anexsoft.com/storage/app/media/common/kodoti-microservice-architecture.jpg
-=======
+Tener una solución integral de una pantalla creada en un Front End con el fin de permitir la captura de un pedido y detalle de pedido, consulta y el borrado de esteusando una arquitectura orientada a microservicios y Net core
+
 
 
 ![Screenshot](Landscape.png)
